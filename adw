@@ -1,0 +1,30 @@
+[33mcommit da6fd728aa5759a3bb52dc778f5c906cf36b278a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: f372d00 b798a58
+Author: 向民 <1099965786@qq.com>
+Date:   Mon Mar 9 15:07:36 2020 +0800
+
+    newconfl
+
+[33mcommit f372d00d8de8abcb6df0294406aeb6bbdc55f5a1[m
+Author: 向民 <1099965786@qq.com>
+Date:   Mon Mar 9 14:59:45 2020 +0800
+
+    simple
+
+[33mcommit b798a58bfbed676d0bbf12e1377b7baff31fbf7d[m[33m ([m[1;32mfeature1[m[33m)[m
+Author: 向民 <1099965786@qq.com>
+Date:   Mon Mar 9 14:57:20 2020 +0800
+
+    featrue
+
+[33mcommit d1e256d5351006bc18831411f6f79001ae0280bf[m
+Author: 向民 <1099965786@qq.com>
+Date:   Mon Mar 9 14:49:27 2020 +0800
+
+    fenzhi
+
+[33mcommit a0c920b245cfe54d5e6e1ad79bcde00682ff93c3[m
+Author: 向民 <1099965786@qq.com>
+Date:   Sun Mar 8 17:29:05 2020 +0800
+
+    practice
