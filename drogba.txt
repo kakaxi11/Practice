@@ -2,8 +2,3 @@ Initialized empty Git repository°®ÎÒµÄ²Í
  HEAD
 Creating a new branch is quick & simple.
 
-Creating a new branch is quick and simple.
-
- feature1
-ÍÛÅ¶adadw
-\wad
